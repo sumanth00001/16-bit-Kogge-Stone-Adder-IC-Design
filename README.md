@@ -24,7 +24,7 @@ Open Source Digital ASIC Design requires three open-source components:
 
  The final layout is in GDSII file format.
  
- [OpenLane](https://github.com/sumanth00001/OpenLane) = An open-source ASIC development flow reference. It consists of multiple open-source tools needed for the whole RTL to GDSII flow. This is tuned epecially for Sky130 PDK. It also works for OSU 130nm. It is recommended to read the [OpenLANE documentation](https://openlane.readthedocs.io/en/latest/)  before moving forward.
+ [OpenLane](https://github.com/sumanthnimmakayala/OpenLane) = An open-source ASIC development flow reference. It consists of multiple open-source tools needed for the whole RTL to GDSII flow. This is tuned epecially for Sky130 PDK. It also works for OSU 130nm. It is recommended to read the [OpenLANE documentation](https://openlane.readthedocs.io/en/latest/)  before moving forward.
   ![openlane_flowchart](https://user-images.githubusercontent.com/113964084/200916377-a4ee9397-4502-416f-9393-4b8ae0423a3a.png)
 
 
